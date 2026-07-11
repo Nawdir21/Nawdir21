@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hey, ich bin Ridwan 👋
 
-<!--
-**Nawdir21/Nawdir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich studiere **Informatik (B.Sc.)** an der TU Darmstadt und will meinen Fokus in Richtung IT Security setzen.
+Ich bin mittlerweile am Ende meines Bachelors und dannach ist auch schon der Master in IT Sicherheit geplant.
 
-Here are some ideas to get you started:
+Viele Interessen doch oft zu verschieden um Alles zu machen. 
+In Zukunft will ich mehr Projekte in richtung Homelabbing machen und mir den Traum vom eigene Server erfüllen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Fun Facts
+- Ich gehe sehr gerne ins Gym und liebe Bankdrücken 
+- Ich mach aktuell mein Motorrad führerschein
+- Ich interessiere für alles was mit Kameras zutun hat, Fotographie, Videographie, Schneiden und überlege mir bald eine Drohne zuzulegen
+- 
