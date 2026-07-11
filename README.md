@@ -10,4 +10,4 @@ In Zukunft will ich mehr Projekte in richtung Homelabbing machen und mir den Tra
 - Ich gehe sehr gerne ins Gym und liebe Bankdrücken 
 - Ich mach aktuell mein Motorrad führerschein
 - Ich interessiere für alles was mit Kameras zutun hat, Fotographie, Videographie, Schneiden und überlege mir bald eine Drohne zuzulegen
-- 
+
